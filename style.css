@@ -1,0 +1,28 @@
+.logo {
+  border: solid black 2px;
+  border-radius: 50%;
+}
+.navbar {
+  background-color: rgb(241, 237, 237);
+}
+.quemsomos {
+  background-color: azure;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+.deondeviemos {
+    background-color: rgb(156, 240, 201);
+    padding-top: 10px;
+    padding-bottom: 10px;
+  }
+  .way {
+   text-align: justify;
+  }
+.paraondevamos{
+    background-color: rgb(145, 131, 227);
+}
+.bottom{
+    background-color: black;
+    padding: 15px;
+    color: white;
+}
